@@ -25,3 +25,33 @@ sub as_svg {
 }
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+
+QBit::GraphViz - QBit wrapper on Graphviz.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-GraphViz
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::GraphViz
+
+=item *
+
+apt-get install libqbit-graphviz-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
